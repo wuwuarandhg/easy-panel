@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1712466631162,
+      "tag": "0000_wonderful_bloodstorm",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1714383623906,
+      "tag": "0001_sparkling_thunderbolt",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1716118022533,
+      "tag": "0002_faithful_prodigy",
+      "breakpoints": true
+    }
+  ]
+}
